@@ -1,0 +1,1460 @@
+[
+  {
+    "name": "Goblin",
+    "collection": "Based",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Goblin.png"
+  },
+  {
+    "name": "Squatch",
+    "collection": "Based",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Squatch.png"
+  },
+  {
+    "name": "Blue Cat",
+    "collection": "Based",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Blue_Cat.png"
+  },
+  {
+    "name": "Cat Top Chef",
+    "collection": "Based",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Cat_Top_Chef.png"
+  },
+  {
+    "name": "Goblin Top Chef",
+    "collection": "Based",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Goblin_Top_Chef.png"
+  },
+  {
+    "name": "Scraggle",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Scraggle.png"
+  },
+  {
+    "name": "Dizzy",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Dizzy.png"
+  },
+  {
+    "name": "Derp",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Derp.png"
+  },
+  {
+    "name": "Ditto",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Ditto.png"
+  },
+  {
+    "name": "Sleeper",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Sleeper.png"
+  },
+  {
+    "name": "Happy Cute",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Happy_Cute.png"
+  },
+  {
+    "name": "Shocked",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shocked.png"
+  },
+  {
+    "name": "Happy OG",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Happy_OG.png"
+  },
+  {
+    "name": "Angry Cute",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Angry_Cute.png"
+  },
+  {
+    "name": "Sunnies",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Sunnies.png"
+  },
+  {
+    "name": "McGavin",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/McGavin.png"
+  },
+  {
+    "name": "Angry",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Angry.png"
+  },
+  {
+    "name": "Unamused",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Unamused.png"
+  },
+  {
+    "name": "Pxl Glasses",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Pxl_Glasses.png"
+  },
+  {
+    "name": "Smirk",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Smirk.png"
+  },
+  {
+    "name": "Wink",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Wink.png"
+  },
+  {
+    "name": "Heart Glasses",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Heart_Glasses.png"
+  },
+  {
+    "name": "Pleased",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Pleased.png"
+  },
+  {
+    "name": "Glossy",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Glossy.png"
+  },
+  {
+    "name": "Cap Black",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cap_Black.png"
+  },
+  {
+    "name": "Arrow",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Arrow.png"
+  },
+  {
+    "name": "Apple",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Apple.png"
+  },
+  {
+    "name": "Beanie Blue",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beanie_Blue.png"
+  },
+  {
+    "name": "Flower Blue",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Flower_Blue.png"
+  },
+  {
+    "name": "Bucket Heart",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Bucket_Heart.png"
+  },
+  {
+    "name": "Beanie Orange",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beanie_Orange.png"
+  },
+  {
+    "name": "Bucket Hat",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Bucket_Hat.png"
+  },
+  {
+    "name": "Cali Cut Blonde",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cali_Cut_Blonde.png"
+  },
+  {
+    "name": "Beret Green",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beret_Green.png"
+  },
+  {
+    "name": "Cali Cut Brown",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cali_Cut_Brown.png"
+  },
+  {
+    "name": "Beret Black",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beret_Black.png"
+  },
+  {
+    "name": "Visor",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Visor.png"
+  },
+  {
+    "name": "Cap Skully",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cap_Skully.png"
+  },
+  {
+    "name": "Fro Black",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Fro_Black.png"
+  },
+  {
+    "name": "Fro Blonde",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Fro_Blonde.png"
+  },
+  {
+    "name": "Piercings",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Piercings.png"
+  },
+  {
+    "name": "Bow",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Bow.png"
+  },
+  {
+    "name": "Cap Clon",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cap_Clon.png"
+  },
+  {
+    "name": "Mowhawk",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Mowhawk.png"
+  },
+  {
+    "name": "Caesar",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Caesar.png"
+  },
+  {
+    "name": "Beret Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beret_Red.png"
+  },
+  {
+    "name": "Mowhawk Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Mowhawk_Red.png"
+  },
+  {
+    "name": "Bandana Blue",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Bandana_Blue.png"
+  },
+  {
+    "name": "Flower Pink",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Flower_Pink.png"
+  },
+  {
+    "name": "Flower Crown",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Flower_Crown.png"
+  },
+  {
+    "name": "Beanie SW",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beanie_SW.png"
+  },
+  {
+    "name": "Mowhawk Purple",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Mowhawk_Purple.png"
+  },
+  {
+    "name": "Beanie Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beanie_Red.png"
+  },
+  {
+    "name": "Beanie Black",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Beanie_Black.png"
+  },
+  {
+    "name": "Cupcake",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cupcake.png"
+  },
+  {
+    "name": "Fro Brown",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Fro_Brown.png"
+  },
+  {
+    "name": "Sweater Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Sweater_Red.png"
+  },
+  {
+    "name": "Handkerchief Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Handkerchief_Red.png"
+  },
+  {
+    "name": "Dress Purple",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Dress_Purple.png"
+  },
+  {
+    "name": "Red Robe",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Red_Robe.png"
+  },
+  {
+    "name": "Jersey Blue",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Jersey_Blue.png"
+  },
+  {
+    "name": "Hoody Purple",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Hoody_Purple.png"
+  },
+  {
+    "name": "Toga",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Toga.png"
+  },
+  {
+    "name": "Shirt Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Red.png"
+  },
+  {
+    "name": "Overalls",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Overalls.png"
+  },
+  {
+    "name": "Buttondown Tan",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Buttondown_Tan.png"
+  },
+  {
+    "name": "Tank Pink",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Tank_Pink.png"
+  },
+  {
+    "name": "Shirt Bow Tie",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Bow_Tie.png"
+  },
+  {
+    "name": "Shirt Cuffed White",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Cuffed_White.png"
+  },
+  {
+    "name": "Dojo Robe",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Dojo_Robe.png"
+  },
+  {
+    "name": "Heart Sleeves",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Heart_Sleeves.png"
+  },
+  {
+    "name": "Lab Coat",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Lab_Coat.png"
+  },
+  {
+    "name": "Polo",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Polo.png"
+  },
+  {
+    "name": "Shirt Tie Blue",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Tie_Blue.png"
+  },
+  {
+    "name": "Shirt Green",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Green.png"
+  },
+  {
+    "name": "Hoody Black",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Hoody_Black.png"
+  },
+  {
+    "name": "Shirt Tie Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Tie_Red.png"
+  },
+  {
+    "name": "Sweater Blue",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Sweater_Blue.png"
+  },
+  {
+    "name": "Overalls Pink",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Overalls_Pink.png"
+  },
+  {
+    "name": "Chain Gang",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Chain_Gang.png"
+  },
+  {
+    "name": "TATTS",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/TATTS.png"
+  },
+  {
+    "name": "Tank Beach Red",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Tank_Beach_Red.png"
+  },
+  {
+    "name": "Handkerchief Green",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Handkerchief_Green.png"
+  },
+  {
+    "name": "Flannel Black",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Flannel_Black.png"
+  },
+  {
+    "name": "Flannel Blue",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Flannel_Blue.png"
+  },
+  {
+    "name": "Shirt Yellow",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Yellow.png"
+  },
+  {
+    "name": "Shirt Cuffed Black",
+    "collection": "Cool Cats",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Shirt_Cuffed_Black.png"
+  },
+  {
+    "name": "Ninja Red",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ninja_Red.png"
+  },
+  {
+    "name": "Angry Warrior",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Angry_Warrior.png"
+  },
+  {
+    "name": "Face Face",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Face_Face.png"
+  },
+  {
+    "name": "Stressed",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Stressed.png"
+  },
+  {
+    "name": "Beard Tan",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Beard_Tan.png"
+  },
+  {
+    "name": "Triforce",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Triforce.png"
+  },
+  {
+    "name": "Beard Brown",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Beard_Brown.png"
+  },
+  {
+    "name": "Fighter",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Fighter.png"
+  },
+  {
+    "name": "Robot",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Robot.png"
+  },
+  {
+    "name": "Joker",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Joker.png"
+  },
+  {
+    "name": "Double Face",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Double_Face.png"
+  },
+  {
+    "name": "Mononoke",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Mononoke.png"
+  },
+  {
+    "name": "Ninja Blue",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ninja_Blue.png"
+  },
+  {
+    "name": "Squad",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Squad.png"
+  },
+  {
+    "name": "Derp Wolf",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Derp_Wolf.png"
+  },
+  {
+    "name": "Pixel",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Pixel.png"
+  },
+  {
+    "name": "Ninja Blue",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ninja_Blue_1.png"
+  },
+  {
+    "name": "Power Scanner Green",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Power_Scanner_Green.png"
+  },
+  {
+    "name": "Unicorn",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Unicorn.png"
+  },
+  {
+    "name": "Horns",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Horns.png"
+  },
+  {
+    "name": "Cowboy Brown",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Cowboy_Brown.png"
+  },
+  {
+    "name": "Biker Helm",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Biker_Helm.png"
+  },
+  {
+    "name": "Pirate Black",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Pirate_Black.png"
+  },
+  {
+    "name": "Helmet Army",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Helmet_Army.png"
+  },
+  {
+    "name": "Viking",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Viking.png"
+  },
+  {
+    "name": "Cowboy Black",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Cowboy_Black.png"
+  },
+  {
+    "name": "Ninja Red",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ninja_Red_1.png"
+  },
+  {
+    "name": "Pirate Red",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Pirate_Red.png"
+  },
+  {
+    "name": "Robinhood",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Robinhood.png"
+  },
+  {
+    "name": "Prince",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Prince.png"
+  },
+  {
+    "name": "Viking Blue",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Viking_Blue.png"
+  },
+  {
+    "name": "Hoody Red",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Hoody_Red.png"
+  },
+  {
+    "name": "Knight Armor Leather",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Knight_Armor_Leather.png"
+  },
+  {
+    "name": "Ninja Red",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ninja_Red_2.png"
+  },
+  {
+    "name": "Pirate",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Pirate.png"
+  },
+  {
+    "name": "Cowboy Classic",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Cowboy_Classic.png"
+  },
+  {
+    "name": "Tank Tatts Collar",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Tank_Tatts_Collar.png"
+  },
+  {
+    "name": "Dress Black",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Dress_Black.png"
+  },
+  {
+    "name": "Costume Frog",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Costume_Frog.png"
+  },
+  {
+    "name": "Ninja Blue",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ninja_Blue_2.png"
+  },
+  {
+    "name": "Shirt Hellfire",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Shirt_Hellfire.png"
+  },
+  {
+    "name": "Dress White",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Dress_White.png"
+  },
+  {
+    "name": "Costume Dragon",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Costume_Dragon.png"
+  },
+  {
+    "name": "Cowboy Black",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Cowboy_Black_1.png"
+  },
+  {
+    "name": "Astro Rare",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Astro_Rare.png"
+  },
+  {
+    "name": "Viking Brown",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Viking_Brown.png"
+  },
+  {
+    "name": "Collar",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Collar.png"
+  },
+  {
+    "name": "Joker",
+    "collection": "Cool Cats",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Joker_1.png"
+  },
+  {
+    "name": "Captain White",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Captain_White.png"
+  },
+  {
+    "name": "Knight Helm",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Knight_Helm.png"
+  },
+  {
+    "name": "Knight Blue",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Knight_Blue.png"
+  },
+  {
+    "name": "Knight Black",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Knight_Black.png"
+  },
+  {
+    "name": "TV Head",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/TV_Head.png"
+  },
+  {
+    "name": "Crown Flame",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Crown_Flame.png"
+  },
+  {
+    "name": "Fire Halo",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Fire_Halo.png"
+  },
+  {
+    "name": "Rilla",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Rilla.png"
+  },
+  {
+    "name": "Power Scanner Violet",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Power_Scanner_Violet.png"
+  },
+  {
+    "name": "Astro",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Astro.png"
+  },
+  {
+    "name": "Astro Fishbowl",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Astro_Fishbowl.png"
+  },
+  {
+    "name": "Knight",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Knight.png"
+  },
+  {
+    "name": "Knight Black",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Knight_Black_1.png"
+  },
+  {
+    "name": "Captain Black",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Captain_Black.png"
+  },
+  {
+    "name": "Angel Robes",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Angel_Robes.png"
+  },
+  {
+    "name": "Tiger",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Tiger.png"
+  },
+  {
+    "name": "Astro Black",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Astro_Black.png"
+  },
+  {
+    "name": "Rilla",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Rilla_1.png"
+  },
+  {
+    "name": "King Robe",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/King_Robe.png"
+  },
+  {
+    "name": "Hot Dog",
+    "collection": "Cool Cats",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Hot_Dog.png"
+  },
+  {
+    "name": "Mudkip",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Mudkip.png"
+  },
+  {
+    "name": "Diglett",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Diglett.png"
+  },
+  {
+    "name": "Nidoran Male",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Nidoran_Male.png"
+  },
+  {
+    "name": "Gastrodon",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Gastrodon.png"
+  },
+  {
+    "name": "Weedle Horn",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Weedle_Horn.png"
+  },
+  {
+    "name": "Pidgey Feathers",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Pidgey_Feathers.png"
+  },
+  {
+    "name": "Bandana Lucario",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Bandana_Lucario.png"
+  },
+  {
+    "name": "Nidoran Female",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Nidoran_Female.png"
+  },
+  {
+    "name": "Zubat",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Zubat.png"
+  },
+  {
+    "name": "Mankey",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Mankey.png"
+  },
+  {
+    "name": "Kadabra Beanie",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Kadabra_Beanie.png"
+  },
+  {
+    "name": "Kadabra",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Kadabra.png"
+  },
+  {
+    "name": "Raticate",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Raticate.png"
+  },
+  {
+    "name": "Gastrodon",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Gastrodon_1.png"
+  },
+  {
+    "name": "Sandshrew Tank",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Sandshrew_Tank.png"
+  },
+  {
+    "name": "Ponyta",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Ponyta.png"
+  },
+  {
+    "name": "Krabby Cookin",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Krabby_Cookin.png"
+  },
+  {
+    "name": "Cubone Shirt",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cubone_Shirt.png"
+  },
+  {
+    "name": "Ekans Shirt",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Ekans_Shirt.png"
+  },
+  {
+    "name": "Nidoran Female",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Nidoran_Female_1.png"
+  },
+  {
+    "name": "Oddish",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Oddish.png"
+  },
+  {
+    "name": "Doduo",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Doduo.png"
+  },
+  {
+    "name": "Venonat",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Venonat.png"
+  },
+  {
+    "name": "Pidgeotto",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Pidgeotto.png"
+  },
+  {
+    "name": "Ivysaur",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ivysaur.png"
+  },
+  {
+    "name": "Florgato",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Florgato.png"
+  },
+  {
+    "name": "Rapidash",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Rapidash.png"
+  },
+  {
+    "name": "Magnemite",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Magnemite.png"
+  },
+  {
+    "name": "Hoot Hoot",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Hoot_Hoot.png"
+  },
+  {
+    "name": "Machoke",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Machoke.png"
+  },
+  {
+    "name": "Farfetch'd",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Farfetch'd.png"
+  },
+  {
+    "name": "Florgato",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Florgato_1.png"
+  },
+  {
+    "name": "Metapod",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Metapod.png"
+  },
+  {
+    "name": "Rhyhorn",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Rhyhorn.png"
+  },
+  {
+    "name": "Tangela Fro",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Tangela_Fro.png"
+  },
+  {
+    "name": "Ivysaur",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Ivysaur_1.png"
+  },
+  {
+    "name": "Porygon",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Porygon.png"
+  },
+  {
+    "name": "Nidoqueen",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Nidoqueen.png"
+  },
+  {
+    "name": "Venusaur",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Venusaur.png"
+  },
+  {
+    "name": "Dragonite Mecha Dark",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Dragonite_Mecha_Dark.png"
+  },
+  {
+    "name": "Zapdos Diadem",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Zapdos_Diadem.png"
+  },
+  {
+    "name": "Pidgeot",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Pidgeot.png"
+  },
+  {
+    "name": "Nidoking",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Nidoking.png"
+  },
+  {
+    "name": "Grimer",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Grimer.png"
+  },
+  {
+    "name": "Cubone",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Cubone.png"
+  },
+  {
+    "name": "Boxing Helmet",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Boxing_Helmet.png"
+  },
+  {
+    "name": "Samurott",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Samurott.png"
+  },
+  {
+    "name": "Metapod",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Metapod_1.png"
+  },
+  {
+    "name": "Ninetales",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Ninetales.png"
+  },
+  {
+    "name": "Grap Vader",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Grap_Vader.png"
+  },
+  {
+    "name": "Moltres Diadem",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Moltres_Diadem.png"
+  },
+  {
+    "name": "Mecha Dragonite",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Mecha_Dragonite.png"
+  },
+  {
+    "name": "Dragonite Mecha Dark",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Dragonite_Mecha_Dark_1.png"
+  },
+  {
+    "name": "Porygon",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Porygon_1.png"
+  },
+  {
+    "name": "Nidoqueen",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Nidoqueen_1.png"
+  },
+  {
+    "name": "Dragonite",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Dragonite.png"
+  },
+  {
+    "name": "Meowtwo Armor",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Meowtwo_Armor.png"
+  },
+  {
+    "name": "Grimer",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Grimer_1.png"
+  },
+  {
+    "name": "Primeape",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Primeape.png"
+  },
+  {
+    "name": "Mega Pidgeot",
+    "collection": "Pokemon",
+    "rarity": "legendary",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/legendary/Mega_Pidgeot.png"
+  },
+  {
+    "name": "Eye of Abra",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Eye_of_Abra.png"
+  },
+  {
+    "name": "Sandshield",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Sandshield.png"
+  },
+  {
+    "name": "Snorlax Costume",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Snorlax_Costume.png"
+  },
+  {
+    "name": "Venusaur Shiny",
+    "collection": "Pokemon",
+    "rarity": "legendary",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/legendary/Venusaur_Shiny.png"
+  },
+  {
+    "name": "Growlithe Hair",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Growlithe_Hair.png"
+  },
+  {
+    "name": "Charmander Hat",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Charmander_Hat.png"
+  },
+  {
+    "name": "Bulbasaur Shirt",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Bulbasaur_Shirt.png"
+  },
+  {
+    "name": "Nidoran M",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Nidoran_M.png"
+  },
+  {
+    "name": "Graveler",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Graveler.png"
+  },
+  {
+    "name": "Primeape",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Primeape_1.png"
+  },
+  {
+    "name": "Nidoking",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Nidoking_1.png"
+  },
+  {
+    "name": "Samurott",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Samurott_1.png"
+  },
+  {
+    "name": "Bird Jesus",
+    "collection": "Pokemon",
+    "rarity": "legendary",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/legendary/Bird_Jesus.png"
+  },
+  {
+    "name": "Snorlax",
+    "collection": "Pokemon",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Snorlax.png"
+  },
+  {
+    "name": "Mankey",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Mankey_1.png"
+  },
+  {
+    "name": "Charmeleon",
+    "collection": "Pokemon",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Charmeleon.png"
+  },
+  {
+    "name": "Venusaur",
+    "collection": "Pokemon",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Venusaur_1.png"
+  },
+  {
+    "name": "Loller",
+    "collection": "Street",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Loller.png"
+  },
+  {
+    "name": "Rainbow Fangs",
+    "collection": "Street",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Rainbow_Fangs.png"
+  },
+  {
+    "name": "Sloth",
+    "collection": "Street",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Sloth.png"
+  },
+  {
+    "name": "Kirbo",
+    "collection": "Street",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Kirbo.png"
+  },
+  {
+    "name": "Cap YC",
+    "collection": "Street",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cap_YC.png"
+  },
+  {
+    "name": "Fonzi",
+    "collection": "Street",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Fonzi.png"
+  },
+  {
+    "name": "Cap GMI",
+    "collection": "Street",
+    "rarity": "common",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/common/Cap_GMI.png"
+  },
+  {
+    "name": "Yeti",
+    "collection": "Street",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Yeti.png"
+  },
+  {
+    "name": "Tonga",
+    "collection": "Street",
+    "rarity": "uncommon",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/uncommon/Tonga.png"
+  },
+  {
+    "name": "Squatch Top Chef",
+    "collection": "Street",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Squatch_Top_Chef.png"
+  },
+  {
+    "name": "Squatch Top Chef Wings",
+    "collection": "Street",
+    "rarity": "rare",
+    "image_url": "https://293a3d74890820c21d5edf7d66b3b96d.r2.cloudflarestorage.com/loot/rare/Squatch_Top_Chef_Wings.png"
+  }
+]
