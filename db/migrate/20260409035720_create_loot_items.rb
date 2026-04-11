@@ -9,6 +9,6 @@ class CreateLootItems < ActiveRecord::Migration[8.1]
     end
 
     add_index :loot_items, :rarity
-    add_index :loot_items, [:name, :rarity], unique: true
+    add_index :loot_items, [ :name, :rarity ], unique: true
   end
 end
