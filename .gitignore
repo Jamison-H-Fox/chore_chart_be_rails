@@ -34,6 +34,7 @@ pickle-email-*.html
 # Ignore storage (uploaded files in development and any SQLite databases).
 /storage/*
 !/storage/.keep
+!/storage/*.sqlite3
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
